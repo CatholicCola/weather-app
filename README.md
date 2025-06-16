@@ -30,4 +30,4 @@ Files:
 
 3.style.css- This script adds formatting/styling to the webpage.
 
-4..gitignore- protects private key
+4.config.js- API key is stored here.
