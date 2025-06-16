@@ -25,6 +25,9 @@ How it works:
 Files:
 
 1.index.html- This is what displays the webpage, takes in input, and keeps placeholders for the weather variables.
+
 2.script.js- This script connects to API's website and extracts the current weather info based on the selected city and state. It then replaces the placeholder variables with the current info.
+
 3.style.css- This script adds formatting/styling to the webpage.
+
 4..gitignore- protects private key
